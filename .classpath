@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="D:/jars for java/PlSql Jars/postgresql-42.1.4.jar"/>
+	<classpathentry kind="lib" path="D:/jars for java/PlSql Jars/postgresql-42.1.4.jre6.jar"/>
+	<classpathentry kind="lib" path="D:/jars for java/PlSql Jars/postgresql-42.1.4.jre7.jar"/>
+	<classpathentry kind="lib" path="D:/jars for java/webservices jars/lib/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/jars for java/webservices jars/lib/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="D:/jars for java/webservices jars/lib/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/jars for java/webservices jars/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/jars for java/webservices jars/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/jars for java/webservices jars/lib/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/jars for java/webservices jars/lib/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="D:/jars for java/webservices jars/lib/htmlunit-2.21.jar"/>
+	<classpathentry kind="lib" path="D:/jars for java/webservices jars/lib/htmlunit-core-js-2.17.jar"/>
+	<classpathentry kind="lib" path="D:/jars for java/webservices jars/lib/htmlunit-driver-2.21.jar"/>
+	<classpathentry kind="lib" path="D:/jars for java/webservices jars/lib/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="D:/jars for java/webservices jars/lib/httpcore-4.4.3.jar"/>
+	<classpathentry kind="lib" path="D:/jars for java/webservices jars/lib/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/jars for java/webservices jars/lib/jackson-all-1.9.0.jar"/>
+	<classpathentry kind="lib" path="D:/jars for java/webservices jars/lib/jackson-annotations-2.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/jars for java/webservices jars/lib/jackson-core-asl-1.9.2.jar"/>
+	<classpathentry kind="lib" path="D:/jars for java/webservices jars/lib/jackson-jaxrs-1.9.2.jar"/>
+	<classpathentry kind="lib" path="D:/jars for java/webservices jars/lib/jackson-mapper-asl-1.9.2.jar"/>
+	<classpathentry kind="lib" path="D:/jars for java/webservices jars/lib/jackson-xc-1.9.2.jar"/>
+	<classpathentry kind="lib" path="D:/jars for java/webservices jars/lib/jaxb-api-2.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/jars for java/webservices jars/lib/jaxb-impl-2.2.3-1.jar"/>
+	<classpathentry kind="lib" path="D:/jars for java/webservices jars/lib/jersey-bundle-1.19.1.jar"/>
+	<classpathentry kind="lib" path="D:/jars for java/webservices jars/lib/jersey-core-1.9.1.jar"/>
+	<classpathentry kind="lib" path="D:/jars for java/webservices jars/lib/jersey-core-1.19.1.jar"/>
+	<classpathentry kind="lib" path="D:/jars for java/webservices jars/lib/jersey-json-1.19.1.jar"/>
+	<classpathentry kind="lib" path="D:/jars for java/webservices jars/lib/jersey-server.jar"/>
+	<classpathentry kind="lib" path="D:/jars for java/webservices jars/lib/jettison-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/jars for java/webservices jars/lib/jetty-io-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="D:/jars for java/webservices jars/lib/jetty-util-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="D:/jars for java/webservices jars/lib/jsr311-api-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/jars for java/webservices jars/lib/junit-3.8.1.jar"/>
+	<classpathentry kind="lib" path="D:/jars for java/webservices jars/lib/log4j-1.2.13.jar"/>
+	<classpathentry kind="lib" path="D:/jars for java/webservices jars/lib/poi-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="D:/jars for java/webservices jars/lib/poi-examples-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="D:/jars for java/webservices jars/lib/poi-excelant-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="D:/jars for java/webservices jars/lib/poi-ooxml-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="D:/jars for java/webservices jars/lib/poi-ooxml-schemas-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="D:/jars for java/webservices jars/lib/poi-scratchpad-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="D:/jars for java/webservices jars/lib/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="D:/jars for java/webservices jars/lib/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/jars for java/webservices jars/lib/stax-api-1.0-2.jar"/>
+	<classpathentry kind="lib" path="D:/jars for java/webservices jars/lib/websocket-api-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="D:/jars for java/webservices jars/lib/websocket-client-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="D:/jars for java/webservices jars/lib/websocket-common-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="D:/jars for java/webservices jars/lib/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="D:/jars for java/webservices jars/lib/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/jars for java/webservices jars/lib/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="D:/jars for java/webservices jars/lib/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
